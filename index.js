@@ -1,12 +1,8 @@
 
 //quiz1
-let multiply = (num1,num2) =>{
-// const num1 =(Math.random()*10)+1
-// num2 = Number.isInteger(62%num1)
-let  multiply  = 62
-return   Number.parseInt(num1 * num2);
-}
-console.log(31,2)
+let num1 = 31
+let num2 = 2
+let multiply = (num1*num2) 
 
 //quiz2
 
@@ -15,11 +11,12 @@ console.log(31,2)
  
  //quiz3
 const num3 = 9;
- let mod = num3 % 5;
+let num4 = 5
+ let mod = num3 % num4;
  
 
  //quiz4
 
- const max = Math.max(20);
+ const max = Math.max(17,18,19,20);
 
  
